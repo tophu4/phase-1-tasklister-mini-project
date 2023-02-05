@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   // submit button event listener
-  // create <li> element eith remove button and append to <ul>
+  // create <li> element with remove button and append to <ul>
   submitBtn.addEventListener("click",function(e){
     e.preventDefault();
 
